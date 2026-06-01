@@ -20,9 +20,8 @@ newgrp docker
 
 ```bash
 git clone https://github.com/shubhsalunke/mysql-to-postgresql-cdc-with-debezium-kafka-connect.git
-cd mysql-to-postgresql-cdc-with-debezium-kafka-connect
 
-mkdir mysql-init
+cd mysql-to-postgresql-cdc-with-debezium-kafka-connect
 ```
 
 ## Step 4: Build and Start Containers
