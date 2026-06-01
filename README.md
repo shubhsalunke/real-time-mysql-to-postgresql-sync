@@ -16,10 +16,10 @@ sudo usermod -aG docker $USER
 newgrp docker
 ```
 
-## Step 3: Create Project Directory
+## Step 3: Clone Repository
 
 ```bash
-mkdir mysql-postgres-cdc
+git clone https://github.com/shubhsalunke/react-node-mysql-crud.git
 cd mysql-postgres-cdc
 
 mkdir mysql-init
