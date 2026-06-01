@@ -19,8 +19,8 @@ newgrp docker
 ## Step 3: Clone Repository
 
 ```bash
-git clone https://github.com/shubhsalunke/react-node-mysql-crud.git
-cd mysql-postgres-cdc
+git clone https://github.com/shubhsalunke/mysql-to-postgresql-cdc-with-debezium-kafka-connect.git
+cd mysql-to-postgresql-cdc-with-debezium-kafka-connect
 
 mkdir mysql-init
 ```
